@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java and Python
 - 📫 How to reach me at alessicmartins@gmail.com.br
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love reading; my favorite is Sherlock Holmes
+- ⚡ Fun fact: I love reading; my favorite caracter is Sherlock Holmes
 
 <!---
 AleMartins2023/AleMartins2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
